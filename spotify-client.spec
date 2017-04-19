@@ -13,16 +13,16 @@
 # published by the Open Source Initiative.
 
 Name:           spotify-client
-Version:        1.0.47.13.gd8e05b1f
+Version:        1.0.53.758.gde3fc4b2
 License:        Commercial
 Summary:        Desktop client for Spotify streaming music service
 Url:            http://www.spotify.com/download/previews/
 Group:          Productivity/Multimedia/Sound/Players
 %ifarch x86_64
-Release:        47
+Release:        33
 Source0:        spotify-client_%{version}-%{release}_amd64.deb
 %else
-Release:        16
+Release:        34
 Source0:        spotify-client_%{version}-%{release}_i386.deb
 %endif
 NoSource:       0

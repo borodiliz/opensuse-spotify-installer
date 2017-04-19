@@ -21,9 +21,9 @@ RPM_SPEC_DIR="/usr/src/packages/SPECS"
 
 # Name of file residing within official Spotify repository above
 RPM_NAME="spotify-client"
-VERSION="1.0.47.13.gd8e05b1f"
-RELEASE_X86="16"
-RELEASE_X64="47"
+VERSION="1.0.53.758.gde3fc4b2"
+RELEASE_X86="34"
+RELEASE_X64="33"
 BASENAME="${RPM_NAME}_$VERSION"
 
 ISSUE_TRACKER_URL="https://github.com/janwillhaus/opensuse-spotify-installer/issues"
